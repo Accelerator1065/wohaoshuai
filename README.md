@@ -32,6 +32,9 @@ resquests
 colorama
 changanya
 
+## 安装初始化 ##
+pip install -r requirement.txt
+
 ## TODO ##
 - [] 反封禁
   - [] 代理池
